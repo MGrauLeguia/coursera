@@ -1,2 +1,2 @@
 # coursera
-CourseraExercisesDataScienceCourss
+Coursera exercises for data science course
